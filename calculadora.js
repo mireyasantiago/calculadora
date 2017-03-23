@@ -18,26 +18,8 @@ function operacion(){
 
 }
 
-
-
-
-
-
-
 function suma(){
   var resultado=number(numeroI) + number(numeroI);
   document.getElementById("valor").value=resultado;
 
 }
-
-/*Memory  = "0";      // initialise memory variable
-    Current = "0";      //   and value of Display ("current" value)
-    Operation = 0;      // Records code for eg * / etc.
-    MAXLENGTH = 30;     // maximum number of digits before decimal!
-
-
-
-
-
-/* para realizar una ;var raizCuadrara = Math.sqrt(9);
-alert(raizCuadrara);  */
